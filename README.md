@@ -6,3 +6,4 @@ Latte ... $5.50
 Single Shot ... $2.50
 
 vitamin water $2.00
+Burrito ... $15.00
