@@ -4,3 +4,4 @@ Menu
 ----------
 Latte ... $6.50
 Single shot ... $3.00
+Macchiato ... $7.00
